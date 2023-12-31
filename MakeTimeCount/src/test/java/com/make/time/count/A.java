@@ -42,5 +42,6 @@ public void loginPage() throws Exception {
 	//Thread.sleep(4000);
 }
 //@Test(priority = 2)
-	
+	System.out.println("Hello");
+
 }
